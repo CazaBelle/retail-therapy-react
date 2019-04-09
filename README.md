@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Retail Therapy 
+
+## User Stories 
+1. As a User I can add a product to my shopping cart.
+2. As a User I can remove a product from my shopping cart.
+3. As a User I can view the total price for the products in my shopping
+4. cart.
+5. As a User I can apply a voucher to my shopping cart.
+6. As a User I can view the total price for the products in my shopping cart
+7. with discounts applied.
+8. As a User I am alerted when I apply an invalid voucher to my shopping
+9. cart.
+10. As a User I am unable to Out of Stock products to the shopping cart.
 
 ## Available Scripts
 
